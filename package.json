@@ -1,0 +1,19 @@
+{
+  "name": "truffle-box",
+  "version": "0.0.1",
+  "description": "truffle box starter",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dejan Erjavec",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^6.2.0",
+    "solc": "^0.5.3",
+    "truffle-hdwallet-provider": "^1.0.3"
+  }
+}
